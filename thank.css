@@ -62,7 +62,7 @@ section{
         .container{
             width: 25%;
             height: 57%;
-            .content{.thanks{p{width: 85%;}} .outpot{width: 53%; height: 7%; font-size: 13px;}}
+            .content{.thanks{p{width: 85%;}} .outpot{width: 60%; height: 7%; font-size: 13px;}}
             
         }
     }
